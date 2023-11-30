@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murathanbakti&label=Profile%20views&color=0e75b6&style=flat" alt="murathanbakti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murathanbakti" alt="murathanbakti" /></a> </p>
-
 - 💬 Ask me about **HTML/CSS/JAVASCRIPT/REACT/NEXT/PHP/CODEIGNITER/EXPRESS.JS**
 
 - 📫 How to reach me **murathanbakti@gmail.com**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murathanbakti&show_icons=true&locale=en&layout=compact" alt="murathanbakti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murathanbakti&show_icons=true&locale=en" alt="murathanbakti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murathanbakti&" alt="murathanbakti" /></p>
